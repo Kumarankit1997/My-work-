@@ -1,4 +1,4 @@
-
+//Print the stair case number using for loop
 public class stairCaseNumberPrint {
 
 	public static void main(String[] args) {
