@@ -15,3 +15,15 @@ public class stairCaseNumberPrint {
 	}
 
 }
+
+
+
+
+
+/*Output
+**********
+*        *
+*        *
+*        *
+**********
+*/
