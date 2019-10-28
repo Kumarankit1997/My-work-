@@ -20,10 +20,4 @@ public class stairCaseNumberPrint {
 
 
 
-/*Output
-**********
-*        *
-*        *
-*        *
-**********
-*/
+
