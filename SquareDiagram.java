@@ -24,3 +24,12 @@ public class SquareDiagram {
 }
 
 
+/*Output
+
+**********
+*        *
+*        *
+*        *
+**********
+
+*/
